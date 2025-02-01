@@ -1,4 +1,4 @@
-#GraphicRequest - JavaFX Application
+# GraphicRequest - JavaFX Application
 Description
 
 GraphicRequest is a graphical application built using JavaFX designed to make HTTP requests in a simple and user-friendly manner. The application aims to streamline the process of configuring and sending HTTP requests to various web services. It provides an intuitive user interface that allows users to easily customize request headers, set up request bodies, and view the responses.
